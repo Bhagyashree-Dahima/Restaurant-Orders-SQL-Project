@@ -60,10 +60,10 @@ Total revenue and customer spending trends
 
 📂 Repository Structure
 📁 Restaurant-Orders-Analysis
- ┣ 📄 README.md   # Project Documentation
- ┣ 📄 queries.sql # All SQL queries written for objectives
- ┣ 📊 insights.pdf # Summary of insights (optional visualization)
- ┗ 📂 dataset     # MySQL dataset files
+┣ 📄 README.md   # Project Documentatio
+┣ 📄 queries.sql # All SQL queries written for objectives
+┣ 📊 insights.pdf # Summary of insights (optional visualization)
+┗ 📂 dataset     # MySQL dataset files
 
 🚀 How to Use
 
